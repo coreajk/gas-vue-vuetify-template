@@ -1,0 +1,4 @@
+{
+  "scriptId": "<Your GAS Project ID>",
+  "rootDir": "dist"
+}
